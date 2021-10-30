@@ -26,3 +26,6 @@
 - Rellena las tortillas con el pollo. Acomoda en un refractario y baña con la salsa y el queso.
 - Gratina en el horno 5 minutos.
 - Sirve.
+-
+![image](C:\Users\danie\OneDrive\Escritorio\git-101/enchiladas1.png)
+- ![image](https://www.google.com/search?q=enchiladas+suizas+.png&rlz=1C1CHBD_esMX933MX934&sxsrf=AOaemvL7oluVRIW4P3HTlTASL8ZuHuJEcA:1635609677958&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjYyuHuwPLzAhUqkWoFHZSjBFwQ_AUoAXoECAEQAw#imgrc=GFfx-r-t2caOxM)
