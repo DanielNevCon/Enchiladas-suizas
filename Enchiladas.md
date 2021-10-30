@@ -1,7 +1,5 @@
 # Enchiladas Suizas
 
-## prueba
-
 ## Ingredientes
 
 - 1 kilo de tomate verde, lavados, desinfectados y secos (para la salsa)
